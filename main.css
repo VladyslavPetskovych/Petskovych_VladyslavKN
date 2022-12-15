@@ -1,0 +1,184 @@
+.header {
+    background: url("./image1/5712_ua.jpg") no-repeat center/cover;
+    height: 70vh;
+}
+
+.email img {
+    width: 20px;
+}
+
+.col-1 {
+    width: 3%;
+}
+
+.phone img {
+    width: 20px;
+}
+
+.me-5 {
+    margin-right: 11rem !important;
+}
+
+.top--contact-info {
+    color: white;
+}
+
+.form--block {
+    width: 350px;
+    background-color: whitesmoke;
+    padding: 15px;
+}
+
+.form--block h3 {
+    font-family: Marker Felt, fantasy;
+}
+
+.form--block h5 {
+    font-family: cursive;
+}
+
+.form--block p {
+    font-size: 9px;
+    font-family: cursive;
+    color: grey;
+}
+
+.title--of--header {
+    color: white;
+}
+
+.text {
+    width: 300px;
+}
+
+.counter {
+    width: 350px;
+    height: 59px;
+    background-color: rgba(255, 3, 145, 0.97);
+}
+
+.ring {
+    background: rgba(255, 159, 201, 0.97);
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    color: white;
+    font-family: fantasy;
+}
+
+.color--white {
+    color: white;
+}
+
+.bg-dark {
+    background-color: #f7038c !important;
+}
+
+.color-black {
+    text-blink: black;
+}
+
+.home--block-one {
+    width: 1200px;
+
+
+}
+
+.block--target {
+    width: 400px;
+}
+
+.follow-us-block {
+    width: 400px;
+}
+
+.border--pink {
+    width: 130px;
+    border-bottom: 1px solid #f7038c;
+}
+
+.plus--one {
+    position: absolute;
+    left: 325px;
+    top: 1100px;
+    width: 50px;
+}
+
+.plus--two {
+    position: absolute;
+    left: 920px;
+    top: 1100px;
+    width: 50px;
+}
+
+.plus--three {
+    position: absolute;
+    left: 1000px;
+    top: 1350px;
+    width: 50px;
+}
+.main-part--2{
+    width: 1200px;
+
+
+}
+.progress{
+    height: 3rem;
+}
+.backgroundGrey{
+    background: rgba(247,249,250,1);
+}
+.col{
+    width: 230px;
+}
+.footer{
+    background: url("image1/love.jpg ") ;
+    height: 110vh;
+    color: white;
+
+
+}
+.box{
+    width: 100%;
+    background-color: #f7038c;
+    opacity: 0.6;
+    filter:alpha(opacity=60);
+    width: 100%;
+    height: 100%;
+}
+.w600{
+    width: 600px;
+}
+.btn-outline-danger {
+    color:#f7038c;
+    border-color:#f7038c;
+}
+.btn-outline-success {
+    color:white;
+    border-color:white;
+}
+.tooltips{
+    width: 200px;
+    color:white;
+    background:#f7038c;
+    border-radius: 10%;
+    position: absolute;
+    left: 200px;
+    top: 990px;
+
+}
+.triangle{
+
+
+    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-right: 50px solid #f7038c;
+}
+.logo{
+width: 500px;
+}
+.navbar{
+    margin-top: -52px;
+}
